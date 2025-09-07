@@ -18,7 +18,7 @@ The dataset contains information about company layoffs and includes the followin
 | `industry`          | object     | Industry sector of the company |
 | `source`            | object     | Source of layoff information |
 | `stage`             | object     | Funding or growth stage of the company (eg: Series A, Startup) |
-| `funds_raised`      | object     | Amount of funds raised by the company (if any) |
+| `funds_raised`      | object     | Amount of funds raised by the company |
 | `country`           | object     | Country of the company |
 | `date_added`        | object     | Date when the record was added to the dataset |
 
